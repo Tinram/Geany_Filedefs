@@ -1,0 +1,18 @@
+
+#[styling=HTML]
+#[keywords=HTML]
+
+# comment above out
+
+[styling]
+php_default=0x7FD8AC;0xffffff;true;false
+php_simplestring=0x888888;0xffffff;false;false
+php_hstring=0x666666;0xffffff;false;false
+php_number=0x33FFFF;0xffffff;false;false
+php_word=0x7FFF7F;0xffffff;true;false
+php_variable=0x59B8F1;0xffffff;true;false
+php_comment=0x8EA9B5;0xffffff;false;true
+php_commentline=0x8EA9B5;0xffffff;false;false
+php_operator=0xCC9977;0xffffff;true;false
+php_hstring_variable=0x33FFFF;0xffffff;false;false
+php_complex_variable=0x105010;0xffffff;false;false

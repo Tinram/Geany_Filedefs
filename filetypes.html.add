@@ -1,0 +1,48 @@
+
+[styling]
+# foreground;background;bold;italic
+html_default=0x222211;0xffffff;false;false
+html_tag=0xAA9922;0xffffff;false;false
+html_tagunknown=0xff0000;0xffffff;false;false
+html_attribute=0xAA9922;0xffffff;false;false
+html_attributeunknown=0xff0000;0xffffff;false;false
+html_number=0x800080;0xffffff;false;false
+html_doublestring=0x999977;0xffffff;false;false
+html_singlestring=0x999977;0xffffff;false;false
+html_other=0xAA9922;0xffffff;false;false
+html_comment=0x666666;0xffffff;false;false
+html_entity=0x800080;0xffffff;false;false
+html_tagend=0x000080;0xffffff;false;false
+# <?
+html_xmlstart=0x000099;0xf0f0f0;false;false
+# ?>
+html_xmlend=0x000099;0xf0f0f0;false;false
+# <script
+html_script=0x000080;0xf0f0f0;false;false
+# <% ... %>
+html_asp=0x004f4f;0xf0f0f0;false;false
+# <%@ ... %>
+html_aspat=0x004f4f;0xf0f0f0;false;false
+html_cdata=0x660099;0xffffff;false;false
+html_question=0x33FFFF;0xffffff;true;false
+	# php tag
+html_value=0x660099;0xffffff;false;false
+html_xccomment=0x660099;0xffffff;false;false
+
+# ...
+
+# used for JavaScript, ASP Javascript, VBScript
+jscript_start=0x008080;0xffffff;false;false
+jscript_default=0x000000;0xffffff;false;false
+jscript_comment=0x666666;0xffffff;false;false
+jscript_commentline=0x4196C3;0xffffff;false;false
+jscript_commentdoc=0x4196C3;0xffffff;true;false
+jscript_number=0x33FFFF;0xffffff;false;false
+jscript_word=0x3C73BD;0xffffff;false;false
+jscript_keyword=0xC38C42;0xffffff;true;false
+jscript_doublestring=0x888888;0xffffff;false;false
+jscript_singlestring=0x888888;0xffffff;false;false
+# same as operators
+jscript_symbols=0x301010;0xffffff;false;false
+jscript_stringeol=0x000000;0xe0c0e0;false;false
+jscript_regex=0x105090;0xffffff;false;false

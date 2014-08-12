@@ -1,0 +1,24 @@
+
+[styling]
+default=0x000000;0xffffff;false;false
+comment=0x8EA9B5;0xffffff;false;false
+commentline=0x8EA9B5;0xffffff;false;false
+commentdoc=0x8EA9B5;0xffffff;true;false
+number=0x33FFFF;0xffffff;true;false
+word=0xCCCC22;0xffffff;true;false
+word2=0xC38C42;0xffffff;true;false
+string=0x666666;0xffffff;false;false
+character=0x888888;0xffffff;false;false
+uuid=extra
+preprocessor=preprocessor
+operator=0xCC9977;0xffffff;true;false
+identifier=0x5577DD;0xffffff;false;false
+stringeol=0x000000;0xe0c0e0;false;false
+# @"verbatim"
+verbatim=extra
+# (/regex/)
+regex=0x105090;0xffffff;false;false
+commentlinedoc=commentdoc,bold
+commentdockeyword=commentdoc,bold,italic
+commentdockeyworderror=commentdoc
+globalclass=type

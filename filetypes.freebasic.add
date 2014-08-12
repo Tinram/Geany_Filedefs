@@ -1,0 +1,23 @@
+
+[styling]
+default=0xff8888;0xffffff;true;false
+comment=0x8EA9B5;0xffffff;false;true
+number=0x33FFFF;0xffffff;true;false
+word=0xFF9933;0xffffff;true;false
+# keyword
+string=0x666666;0xffffff;false;false
+preprocessor=0x333333;0xffffff;false;false
+operator=0x996633;0xffffff;true;false
+identifier=0x4685EB;0xffffff;true;true
+# variable
+date=0x0066cc;0xffffff;false;false
+stringeol=string_eol
+word2=0x999999;0xffffff;true;false
+word3=0x33FFFF;0xffffff;false;false
+word4=0x33FFFF;0xffffff;true;false
+constant=0x55FFFF;0xffffff;true;false
+asm=0x888888;0xffffff;false;false
+label=0x007777;0xffffff;false;false
+error=0x33FFFF;0xffffff;false;false
+hexnumber=0x33FFFF;0xffffff;false;false
+binnumber=0x007777;0xffffff;false;false
