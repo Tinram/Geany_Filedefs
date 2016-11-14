@@ -1,5 +1,5 @@
 
-[styling]
+[styling=HTML]
 # foreground;background;bold;italic
 html_default=0x222211;0xffffff;false;false
 html_tag=0xAA9922;0xffffff;false;false
@@ -28,8 +28,6 @@ html_question=0x33FFFF;0xffffff;true;false
 	# php tag
 html_value=0x660099;0xffffff;false;false
 html_xccomment=0x660099;0xffffff;false;false
-
-# ...
 
 # used for JavaScript, ASP Javascript, VBScript
 jscript_start=0x008080;0xffffff;false;false

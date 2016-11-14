@@ -1,10 +1,5 @@
 
-#[styling=HTML]
-#[keywords=HTML]
-
-# comment above out
-
-[styling]
+[styling=HTML]
 php_default=0x7FD8AC;0xffffff;true;false
 php_simplestring=0x888888;0xffffff;false;false
 php_hstring=0x666666;0xffffff;false;false

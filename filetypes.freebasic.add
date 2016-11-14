@@ -1,5 +1,5 @@
 
-[styling]
+[styling=HTML]
 default=0xff8888;0xffffff;true;false
 comment=0x8EA9B5;0xffffff;false;true
 number=0x33FFFF;0xffffff;true;false
