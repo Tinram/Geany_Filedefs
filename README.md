@@ -1,20 +1,20 @@
 
-# Geany Editor Syntax Highlighting
+# Geany IDE Syntax Highlighting
 
 
 ## Purpose
 
-My slightly eccentric, but personally essential, Geany colour schemes for a black editor background.
+My eccentric Geany colour schemes for a black editor background.
 
 
 ## Colours
 
-Colours are inverted HTML codes, to conform with the 'inverted' editor background.
+Colours are inverted HTML codes, to conform with my preferred 'inverted' editor background.
 
 
-## Geany Version
+## Geany Versions
 
-Version 1.27 on Linux.
+Versions 1.27 to 1.32 on Linux.
 
 
 ## Global Template Files
@@ -29,11 +29,13 @@ Version 1.27 on Linux.
 
 ## Usage
 
-Copy the repo files to *~/.config/geany/filedefs/*
+Copy the `filetypes.*` files from the repo/zip to *~/.config/geany/filedefs/*
+
 
 ----
 
-#### Colour Usage in Future Geany Versions
+
+#### Legacy Geany Versions
 
 Copy the template filetypes files from:
 
@@ -44,7 +46,7 @@ to:
 *~/.config/geany/filedefs/*
 
 
-In each *~/.config/geany/filedefs/* file, copy and paste the `[styling=HTML]` section and colour codes from the additions directory.
+In each *~/.config/geany/filedefs/* file, copy and paste the `[styling=HTML]` section and colour codes from the *additions/* directory.
 
 Change the colour code values to your preference.  The *gpick* application in the Ubuntu repo has a decent colour code inverter (*Scheme generation*).
 
